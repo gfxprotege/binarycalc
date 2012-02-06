@@ -1,0 +1,9 @@
+C:\Users\Jordan\Documents\Visual Studio 2010\Projects\binarycalc\binarycalc\bin\Debug\binarycalc.exe
+C:\Users\Jordan\Documents\Visual Studio 2010\Projects\binarycalc\binarycalc\bin\Debug\binarycalc.pdb
+C:\Users\Jordan\Documents\Visual Studio 2010\Projects\binarycalc\binarycalc\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jordan\Documents\Visual Studio 2010\Projects\binarycalc\binarycalc\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Jordan\Documents\Visual Studio 2010\Projects\binarycalc\binarycalc\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Jordan\Documents\Visual Studio 2010\Projects\binarycalc\binarycalc\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jordan\Documents\Visual Studio 2010\Projects\binarycalc\binarycalc\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jordan\Documents\Visual Studio 2010\Projects\binarycalc\binarycalc\obj\x86\Debug\binarycalc.exe
+C:\Users\Jordan\Documents\Visual Studio 2010\Projects\binarycalc\binarycalc\obj\x86\Debug\binarycalc.pdb
